@@ -1,0 +1,5 @@
+Simple http client with authentication
+
+Two ways to put credentials:
+- as a plain header
+- with Authenticator
